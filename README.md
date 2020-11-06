@@ -4,6 +4,10 @@
 - Bootstrap / Bootswatch
 - SweetAlert2
 
+# Link: 👉🏽 https://tasks-app-gan0197.netlify.app/
+
+![Twitter Follow](https://img.shields.io/twitter/follow/gan01_97?style=social)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
