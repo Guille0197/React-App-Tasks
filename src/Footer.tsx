@@ -49,7 +49,7 @@ const Footer = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/Guille0197/Cotizador_Prestamos_React"
+              href="https://github.com/Guille0197/React-App-Tasks/"
             >
               <strong>GitHub</strong>
             </a>
