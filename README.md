@@ -1,3 +1,9 @@
+# React Tasks App
+![Guillermo Navarro](https://repository-images.githubusercontent.com/310711046/161a5480-2057-11eb-9f40-ce8c4dc044a2)
+- Typescript
+- Bootstrap / Bootswatch
+- SweetAlert2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
