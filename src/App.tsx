@@ -47,7 +47,7 @@ function App(): JSX.Element {
       confirmButtonText: "Yes, delete it!",
     }).then((result) => {
       if (result.isConfirmed) {
-        Swal.fire("Deleted!", "Your tasks ha been deleted.", "success");
+        Swal.fire("Deleted!", "Your tasks has been deleted.", "success");
         // Delete Tasks
         const newTasks: ITasks[] = [...tasks];
         newTasks.splice(i, 1);
